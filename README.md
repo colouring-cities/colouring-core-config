@@ -1,7 +1,8 @@
-# colouring-london-config
-A server configuration for hosting an instance of Colouring London
+# colouring-core-config
+A server configuration for hosting an instance of The Colouring Cities Core Platform
 
-Repository for software itself resides at https://github.com/colouring-cities/colouring-london
+Repository for software itself resides at https://github.com/colouring-cities/colouring-core.  
+The scripts are subtly different from the config for [Colouring London](https://github.com/colouring-cities/colouring-london-config), to allow both platforms to be deployed and tested on the same server.
 
 ## Basic info
 
