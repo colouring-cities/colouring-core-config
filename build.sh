@@ -1,7 +1,7 @@
 #!/bin/bash
 set -e
 
-cd ~/colouring-london/app
+cd ~/colouring-core/app
 echo "Installing all dependencies..."
 npm install
 echo "Cleaning build directory..."
